@@ -1,0 +1,14 @@
+.background{
+    height: 120vh;
+    background: #3C6255;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 100vw;
+}
